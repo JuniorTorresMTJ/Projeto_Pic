@@ -1,5 +1,5 @@
 # Projeto: PIC
-Projeto de Análise de Dados Abertos da Saúde do Brasil(SUS)
+Projeto de Análise de Dados Abertos da Saúde do Brasil (SUS)
 
 <p align= "center">
 <img src="https://github.com/JuniorTorresMTJ/temp2/blob/main/img/Projeto%20Pic.png" min-width="300px" max-width="200px" width="750px" > 
